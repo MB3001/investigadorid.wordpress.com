@@ -1,7 +1,7 @@
 # investigadorid.wordpress.com
 Todo el código fuente y el arte que conforma el sitio de investigadorid.wordpress.com.
 
-Es muy probable que el repositorio no esté actualizado respecto a la pagina.
+Es muy probable que el repositorio no esté actualizado respecto a la página.
 -----------------------
 Es posible que un proyecto personal mencionado en el sitio no esté aquí.
 Se lo mencionará en la siguiente lista como enlace al sitio donde está localizado:
